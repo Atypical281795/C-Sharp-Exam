@@ -16,6 +16,11 @@ class Exam2
         }
         int max = number[0];
         int secmax = number[1];
+        if (number[0] < number[1])
+        {
+            secmax = number[0];
+            max = number[1];
+        }
         for(int i = 0;i < 5;i++)
         {
             if (number[i]>max)
