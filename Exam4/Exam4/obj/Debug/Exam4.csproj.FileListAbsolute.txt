@@ -1,0 +1,7 @@
+C:\Users\Ryan\OneDrive - 中山醫學大學\桌面\C#Test\期中指定考\Exam4\Exam4\obj\Debug\Exam4.csproj.AssemblyReference.cache
+C:\Users\Ryan\OneDrive - 中山醫學大學\桌面\C#Test\期中指定考\Exam4\Exam4\obj\Debug\Exam4.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\OneDrive - 中山醫學大學\桌面\C#Test\期中指定考\Exam4\Exam4\bin\Debug\Exam4.exe.config
+C:\Users\Ryan\OneDrive - 中山醫學大學\桌面\C#Test\期中指定考\Exam4\Exam4\bin\Debug\Exam4.exe
+C:\Users\Ryan\OneDrive - 中山醫學大學\桌面\C#Test\期中指定考\Exam4\Exam4\bin\Debug\Exam4.pdb
+C:\Users\Ryan\OneDrive - 中山醫學大學\桌面\C#Test\期中指定考\Exam4\Exam4\obj\Debug\Exam4.exe
+C:\Users\Ryan\OneDrive - 中山醫學大學\桌面\C#Test\期中指定考\Exam4\Exam4\obj\Debug\Exam4.pdb

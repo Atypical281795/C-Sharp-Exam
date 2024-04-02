@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\Exam5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25ADD278-C314-4CB2-843E-B7F47D5250BC}|Exam5\\Exam5.csproj|c:\\users\\ryan\\onedrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\c#test\\\u671F\u4E2D\u6307\u5B9A\u8003\\exam5\\exam5\\exam5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25ADD278-C314-4CB2-843E-B7F47D5250BC}|Exam5\\Exam5.csproj|solutionrelative:exam5\\exam5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam5.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\Exam5\\Exam5\\Exam5.cs",
+              "RelativeDocumentMoniker": "Exam5\\Exam5.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\Exam5\\Exam5\\Exam5.cs",
+              "RelativeToolTip": "Exam5\\Exam5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T02:42:38.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
