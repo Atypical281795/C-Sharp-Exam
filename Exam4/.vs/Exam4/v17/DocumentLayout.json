@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\Exam4\\",
+  "WorkspaceRootPath": "C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\C-Exam2\\Exam4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0B45381-2492-4BDB-A636-33A29DB1E586}|Exam4\\Exam4.csproj|C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\Exam4\\exam4\\esxam4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0B45381-2492-4BDB-A636-33A29DB1E586}|Exam4\\Exam4.csproj|solutionrelative:exam4\\esxam4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0B45381-2492-4BDB-A636-33A29DB1E586}|Exam4\\Exam4.csproj|C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\C-Exam2\\Exam4\\exam4\\exam4test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B45381-2492-4BDB-A636-33A29DB1E586}|Exam4\\Exam4.csproj|solutionrelative:exam4\\exam4test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0B45381-2492-4BDB-A636-33A29DB1E586}|Exam4\\Exam4.csproj|c:\\users\\ryan\\onedrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\c#test\\\u671F\u4E2D\u6307\u5B9A\u8003\\exam4\\exam4\\exam4test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0B45381-2492-4BDB-A636-33A29DB1E586}|Exam4\\Exam4.csproj|solutionrelative:exam4\\exam4test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0B45381-2492-4BDB-A636-33A29DB1E586}|Exam4\\Exam4.csproj|c:\\users\\ryan\\onedrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\c#test\\\u671F\u4E2D\u6307\u5B9A\u8003\\c-exam2\\exam4\\exam4\\esxam4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B45381-2492-4BDB-A636-33A29DB1E586}|Exam4\\Exam4.csproj|solutionrelative:exam4\\esxam4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Exam4Test.cs",
-              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\Exam4\\Exam4\\Exam4Test.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\C-Exam2\\Exam4\\Exam4\\Exam4Test.cs",
               "RelativeDocumentMoniker": "Exam4\\Exam4Test.cs",
-              "ToolTip": "C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\Exam4\\Exam4\\Exam4Test.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\C-Exam2\\Exam4\\Exam4\\Exam4Test.cs",
               "RelativeToolTip": "Exam4\\Exam4Test.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwDAAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T00:16:55.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Esxam4.cs",
-              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\Exam4\\Exam4\\Esxam4.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\C-Exam2\\Exam4\\Exam4\\Esxam4.cs",
               "RelativeDocumentMoniker": "Exam4\\Esxam4.cs",
-              "ToolTip": "C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\Exam4\\Exam4\\Esxam4.cs",
+              "ToolTip": "C:\\Users\\Ryan\\OneDrive - \u4E2D\u5C71\u91AB\u5B78\u5927\u5B78\\\u684C\u9762\\C#Test\\\u671F\u4E2D\u6307\u5B9A\u8003\\C-Exam2\\Exam4\\Exam4\\Esxam4.cs",
               "RelativeToolTip": "Exam4\\Esxam4.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAALAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T00:15:22.084Z",
               "EditorCaption": ""
