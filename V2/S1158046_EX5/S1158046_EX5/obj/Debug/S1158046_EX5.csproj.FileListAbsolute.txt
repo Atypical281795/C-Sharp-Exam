@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Test\S1158046_EX5\S1158046_EX5\bin\Debug\S1158046_EX5.exe.config
+C:\Users\User\Desktop\Test\S1158046_EX5\S1158046_EX5\bin\Debug\S1158046_EX5.exe
+C:\Users\User\Desktop\Test\S1158046_EX5\S1158046_EX5\bin\Debug\S1158046_EX5.pdb
+C:\Users\User\Desktop\Test\S1158046_EX5\S1158046_EX5\obj\Debug\S1158046_EX5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Test\S1158046_EX5\S1158046_EX5\obj\Debug\S1158046_EX5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Test\S1158046_EX5\S1158046_EX5\obj\Debug\S1158046_EX5.exe
+C:\Users\User\Desktop\Test\S1158046_EX5\S1158046_EX5\obj\Debug\S1158046_EX5.pdb

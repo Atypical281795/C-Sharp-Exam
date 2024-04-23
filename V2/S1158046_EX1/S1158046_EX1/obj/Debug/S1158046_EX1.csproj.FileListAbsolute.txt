@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\1158046\S1158046_EX1\S1158046_EX1\bin\Debug\S1158046_EX1.exe.config
+C:\Users\User\Desktop\1158046\S1158046_EX1\S1158046_EX1\bin\Debug\S1158046_EX1.exe
+C:\Users\User\Desktop\1158046\S1158046_EX1\S1158046_EX1\bin\Debug\S1158046_EX1.pdb
+C:\Users\User\Desktop\1158046\S1158046_EX1\S1158046_EX1\obj\Debug\S1158046_EX1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\1158046\S1158046_EX1\S1158046_EX1\obj\Debug\S1158046_EX1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1158046\S1158046_EX1\S1158046_EX1\obj\Debug\S1158046_EX1.exe
+C:\Users\User\Desktop\1158046\S1158046_EX1\S1158046_EX1\obj\Debug\S1158046_EX1.pdb

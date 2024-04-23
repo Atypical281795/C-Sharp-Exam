@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Test\S1158046_EX2\S1158046_EX2\bin\Debug\S1158046_EX2.exe.config
+C:\Users\User\Desktop\Test\S1158046_EX2\S1158046_EX2\bin\Debug\S1158046_EX2.exe
+C:\Users\User\Desktop\Test\S1158046_EX2\S1158046_EX2\bin\Debug\S1158046_EX2.pdb
+C:\Users\User\Desktop\Test\S1158046_EX2\S1158046_EX2\obj\Debug\S1158046_EX2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Test\S1158046_EX2\S1158046_EX2\obj\Debug\S1158046_EX2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Test\S1158046_EX2\S1158046_EX2\obj\Debug\S1158046_EX2.exe
+C:\Users\User\Desktop\Test\S1158046_EX2\S1158046_EX2\obj\Debug\S1158046_EX2.pdb

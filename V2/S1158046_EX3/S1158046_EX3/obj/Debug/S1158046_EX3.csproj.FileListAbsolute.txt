@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Test\S1158046_EX3\S1158046_EX3\bin\Debug\S1158046_EX3.exe.config
+C:\Users\User\Desktop\Test\S1158046_EX3\S1158046_EX3\bin\Debug\S1158046_EX3.exe
+C:\Users\User\Desktop\Test\S1158046_EX3\S1158046_EX3\bin\Debug\S1158046_EX3.pdb
+C:\Users\User\Desktop\Test\S1158046_EX3\S1158046_EX3\obj\Debug\S1158046_EX3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Test\S1158046_EX3\S1158046_EX3\obj\Debug\S1158046_EX3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Test\S1158046_EX3\S1158046_EX3\obj\Debug\S1158046_EX3.exe
+C:\Users\User\Desktop\Test\S1158046_EX3\S1158046_EX3\obj\Debug\S1158046_EX3.pdb
